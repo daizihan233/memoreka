@@ -3,8 +3,8 @@ with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="moa",
-    version="0.2.24.1",
+    name="memoreka",
+    version="0.2.24.2",
     author="KuoHu",
     author_email="hantools@foxmail.com",
     description="秒花笔记API",
